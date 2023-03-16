@@ -2,7 +2,7 @@
 
 Submitted by: **Angel Avila**
 
-This web app: ** Displays flash cards that allows users to study/test their Data Structures knowledge through guessing the answers**
+This web app: **Displays flash cards that allows users to study/test their Data Structures knowledge through guessing the answers**
 
 Time spent: **4** hours spent in total
 
@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Avila-Angel/codepathProject3/blob/main/codepathProject3/src/assets/demoPt2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -36,7 +36,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+### Describe any challenges encountered while building the app:
 One challenge I had with improving the app was getting the following card to not display the answer when the card is flipped. What I did to solve it was creating a clear method for when the user presses next, instead of seeing the card flip, showing the answer for a brief second, I had the card clear all info once the next button is pressed.
 
 ## License
